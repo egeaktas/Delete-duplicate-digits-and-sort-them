@@ -1,0 +1,1 @@
+This program takes an integer from the user, deletes the duplicate numbers and sorts the remaining numbers in an array. For example: Given the input 1990032755, it creates an array which is {0,1,2,3,5,7,9}.
